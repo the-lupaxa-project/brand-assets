@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="1600"
+    height="220"
+    viewBox="0 0 1600 220"
+    role="img"
+    aria-labelledby="title desc">
+
+    <title id="title">Official Documentation</title>
+    <desc id="desc">
+        Official Documentation banner for The Lupaxa Project.
+    </desc>
+
+    <!-- Background -->
+    <rect
+        x="0"
+        y="0"
+        width="1600"
+        height="220"
+        fill="#203959" />
+
+    <!-- Border -->
+    <rect
+        x="1"
+        y="1"
+        width="1598"
+        height="218"
+        fill="none"
+        stroke="#6D95D3"
+        stroke-width="2" />
+
+    <!-- Title -->
+    <text
+        x="800"
+        y="123"
+        text-anchor="middle"
+        font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+        font-size="34"
+        font-weight="600"
+        fill="#FFFFFF">
+        Official Documentation
+    </text>
+
+</svg>
