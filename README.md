@@ -30,6 +30,7 @@ Additional branding assets may be introduced as the ecosystem evolves.
 | Core Logos         | `logos/core/`                                 | Official Lupaxa branding in multiple resolutions. |
 | Organisation Logos | `logos/organisations/`                        | Official branding for each GitHub organisation.   |
 | README Logos       | `logos/organisations/*/readme-logo*.png`      | Standard repository header logos.                 |
+| Raw Logos          | `logos/organisations/*/logo-raw.png`          | Minimal raw branding assets.                      |
 | Transparent Logos  | `logos/organisations/*/logo-transparent.png`  | General-purpose branding assets.                  |
 | White Logos        | `logos/organisations/*/logo-white.png`        | Branding for white backgrounds.                   |
 
@@ -70,6 +71,8 @@ brand-assets
         ├── spider-toolbox
         ├── sre-toolbox
         ├── terraform-toolbox
+        ├── the-lupaxa-blueprints
+        ├── the-lupaxa-internal-toolbox
         ├── the-lupaxa-lab
         ├── the-lupaxa-project
         └── the-lupaxa-project-private
