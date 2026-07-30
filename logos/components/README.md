@@ -4,6 +4,8 @@ This set is sized for practical rendering inside GitHub README content areas.
 
 ## Shared banner styling
 
+Used by most section banners (`header.svg`, badges, etc.):
+
 - Canvas: `1600 × 220`
 - Background: `#203959`
 - Border: `#6D95D3`
@@ -15,6 +17,21 @@ This set is sized for practical rendering inside GitHub README content areas.
 - Text colour: `#FFFFFF`
 
 The larger text compensates for GitHub scaling a 1600px-wide SVG down to the README content width.
+
+## Footer styling
+
+Footer assets (`footer.svg`, `footer-no-padding.svg`, `footer-for-child-orgs.svg`)
+follow the portal footer rather than the bordered banner chrome:
+
+- Background: `#203959`
+- Top rule: white at `12%` opacity (`2px`)
+- Border: `#6D95D3`, `2px` (inset `1px` so the stroke sits on the bar edge)
+- Copyright: `26px`, weight `600` / name weight `700`, white at `90%` opacity
+- Taglines: `26px`, weight `300`, white (same size as copyright — portal ratio)
+- Copy: `© 2025-2026 The Lupaxa Project. All rights reserved.` plus the two brand taglines
+- `footer.svg` / `footer-for-child-orgs.svg`: `20px` transparent padding above the bar
+- `footer-no-padding.svg`: flush to the top edge
+- `footer-for-child-orgs.svg`: adds a `PART OF` eyebrow in `#6D95D3`
 
 ## Root README usage
 
