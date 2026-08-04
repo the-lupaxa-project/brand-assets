@@ -1,2 +1,5 @@
 # Ignore all macOS metadata files everywhere
 **/.DS_Store
+
+# Private Superpowers specs/plans (symlink into Lupaxa cursor-docs vault)
+cursor-docs

@@ -56,7 +56,6 @@ brand-assets
         ├── aws-toolbox
         ├── azure-toolbox
         ├── cicd-toolbox
-        ├── code-playground
         ├── database-toolbox
         ├── developers-toolbox
         ├── devops-toolbox
@@ -65,6 +64,7 @@ brand-assets
         ├── gh-toolbox
         ├── git-hooks-toolbox
         ├── git-toolbox
+        ├── miscellaneous-toolbox
         ├── monitoring-toolbox
         ├── notifications-toolbox
         ├── security-toolbox
