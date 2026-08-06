@@ -3,6 +3,7 @@
         <img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/the-lupaxa-project/readme-logo.png" alt="Organisation Logo" />
     </a>
 </p>
+
 <h1 align="center">Engineering Principles</h1>
 
 **The Lupaxa Project** maintains a single organisation-wide Engineering Principles document to provide a consistent set of values that guide engineering decisions across every repository and organisation.

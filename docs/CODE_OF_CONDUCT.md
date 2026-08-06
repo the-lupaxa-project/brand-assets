@@ -12,10 +12,10 @@ The authoritative Code of Conduct is available here: [The Lupaxa Project: Code o
 
 It includes guidance on:
 
-- Expected respectful, professional and inclusive behaviour
-- Unacceptable conduct and enforcement procedures
-- Reporting concerns privately or publicly
-- How reported concerns are reviewed and resolved
+- Expected respectful, professional and inclusive behaviour.
+- Unacceptable conduct and enforcement procedures.
+- Reporting concerns privately or publicly.
+- How reported concerns are reviewed and resolved.
 
 Unless explicitly stated otherwise, this Code of Conduct applies to every repository, organisation and community space within **The Lupaxa Project**.
 
