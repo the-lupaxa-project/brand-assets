@@ -75,7 +75,8 @@ brand-assets
         ├── the-lupaxa-internal-toolbox
         ├── the-lupaxa-lab
         ├── the-lupaxa-project
-        └── the-lupaxa-project-private
+        ├── the-lupaxa-project-private
+        └── workstation-toolbox
 ```
 
 ## Documentation
