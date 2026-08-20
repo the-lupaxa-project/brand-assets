@@ -19,10 +19,10 @@ The official repository is:
 https://github.com/the-lupaxa-project/brand-assets
 ```
 
-Raw assets are available from:
+Raw assets are served from `raw.githubusercontent.com` under this repository. For example:
 
 ```text
-https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/
+https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/the-lupaxa-project/logo-transparent.png
 ```
 
 ## Repository README
@@ -195,13 +195,13 @@ Reference an organisation:
 
 ## Raw Asset URLs
 
-General format:
+General format (path under the repository `master` tree):
 
 ```text
-https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/<organisation>/<asset>
+logos/organisations/ORGANISATION/ASSET
 ```
 
-Example:
+Replace `ORGANISATION` with the organisation folder name and `ASSET` with the filename. Full example:
 
 ```text
 https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/aws-toolbox/readme-logo.png
