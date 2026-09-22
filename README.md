@@ -54,13 +54,10 @@ brand-assets
         ├── actions-toolbox
         ├── api-extractor-toolbox
         ├── aws-toolbox
-        ├── azure-toolbox
         ├── cicd-toolbox
         ├── database-toolbox
         ├── developers-toolbox
-        ├── devops-toolbox
         ├── docker-toolbox
-        ├── gcp-toolbox
         ├── gh-toolbox
         ├── git-hooks-toolbox
         ├── git-toolbox
@@ -70,7 +67,6 @@ brand-assets
         ├── security-toolbox
         ├── spider-toolbox
         ├── sre-toolbox
-        ├── terraform-toolbox
         ├── the-lupaxa-blueprints
         ├── the-lupaxa-internal-toolbox
         ├── the-lupaxa-lab

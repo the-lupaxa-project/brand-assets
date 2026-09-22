@@ -153,12 +153,6 @@ logos/core/512/banner-transparent.png
 <img src="https://img.shields.io/badge/Docker-203959?style=for-the-badge&logo=docker" />
 ```
 
-### Terraform
-
-```html
-<img src="https://img.shields.io/badge/Terraform-203959?style=for-the-badge&logo=terraform" />
-```
-
 ## Badge Colours
 
 The recommended badge colours are:
