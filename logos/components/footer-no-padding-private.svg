@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="1600"
+    height="220"
+    viewBox="0 0 1600 220"
+    role="img"
+    aria-labelledby="title desc">
+
+    <title id="title">The Lupaxa Project Footer</title>
+    <desc id="desc">
+        Flush footer variant (no top padding) for The Lupaxa Project
+        repositories. Matches the portal footer styling.
+    </desc>
+
+    <!-- Background -->
+    <rect
+        x="0"
+        y="0"
+        width="1600"
+        height="220"
+        fill="#8B0000" />
+
+    <!-- Soft top rule -->
+    <rect
+        x="0"
+        y="0"
+        width="1600"
+        height="2"
+        fill="#FFFFFF"
+        fill-opacity="0.12" />
+
+    <!-- Brand accent border -->
+    <rect
+        x="1"
+        y="1"
+        width="1598"
+        height="218"
+        fill="none"
+        stroke="#CD5C5C"
+        stroke-width="2" />
+
+    <text
+        x="800"
+        y="78"
+        text-anchor="middle"
+        font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+        font-size="26"
+        font-weight="600"
+        letter-spacing="-0.4"
+        fill="#FFFFFF"
+        fill-opacity="0.9">
+        © <tspan font-weight="700">The Lupaxa Project</tspan>. All rights reserved.
+    </text>
+
+    <text
+        x="800"
+        y="120"
+        text-anchor="middle"
+        font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+        font-size="26"
+        font-weight="300"
+        fill="#FFFFFF">
+        Where exploration meets precision.
+    </text>
+
+    <text
+        x="800"
+        y="158"
+        text-anchor="middle"
+        font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+        font-size="26"
+        font-weight="300"
+        fill="#FFFFFF">
+        Where the untamed meets the engineered.
+    </text>
+
+</svg>

@@ -57,3 +57,12 @@ follow the portal footer rather than the bordered banner chrome:
 
 - `divider.svg`: full-width 2px accent rule
 - `divider-inset.svg`: 2px accent rule inset by 20px
+
+## Private variants
+
+Every component also has a `-private` sibling (for example `header-private.svg`,
+`footer-private.svg`) using the private red palette:
+
+- Background: `#8B0000`
+- Border / accent: `#CD5C5C`
+- Text remains white (`#FFFFFF`) with the same opacity rules as the blue set
