@@ -118,7 +118,7 @@ Example:
 Recommended image:
 
 ```text
-logos/core/512/banner-transparent.png
+logos/social-media/social-card.png
 ```
 
 ## Shields.io Badge Examples
