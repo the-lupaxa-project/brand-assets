@@ -19,11 +19,7 @@ The official repository is:
 https://github.com/the-lupaxa-project/brand-assets
 ```
 
-Raw assets are served from `raw.githubusercontent.com` under this repository. For example:
-
-```text
-https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/the-lupaxa-project/logo-transparent.png
-```
+Raw assets are served from `raw.githubusercontent.com` under this repository.
 
 ## Repository README
 
@@ -49,61 +45,8 @@ For repositories that prefer pure Markdown:
 ![The Lupaxa Project Logo](https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/the-lupaxa-project/readme-logo.png)
 ```
 
-HTML is generally preferred because it allows the image size to be controlled.
-
-## Organisation README
-
-To display an organisation logo:
-
-```html
-<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/actions-toolbox/readme-logo.png" alt="Actions Toolbox" />
-```
-
-Simply replace the organisation name with the required directory.
-
-## Documentation (MkDocs)
-
-Example page header:
-
-```html
-<p align="center">
-    <img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/the-lupaxa-project/readme-logo.png" alt="The Lupaxa Project" />
-</p>
-```
-
-## GitHub Pages
-
-The same assets may be referenced from GitHub Pages or static websites.
-
-```html
-<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/the-lupaxa-project/logo-transparent.png" alt="The Lupaxa Project" />
-```
-
-## HTML Websites
-
-Example website header.
-
-```html
-<header>
-    <img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/core/256/main-logo-transparent.png" alt="The Lupaxa Project Logo" />
-</header>
-```
-
-## Dark Backgrounds
-
-When using dark backgrounds, prefer the white logo.
-
-```html
-<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/the-lupaxa-project/logo-white.png" alt="The Lupaxa Project" />
-```
-
-## Transparent Backgrounds
-
-For documentation and websites, use the transparent variant.
-
-```html
-<img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/the-lupaxa-project/logo-transparent.png" alt="The Lupaxa Project" />
-```
+> [!NOTE]
+> HTML is generally preferred because it allows the image size to be controlled.
 
 ## Banner Graphics
 
@@ -167,7 +110,7 @@ The recommended badge colours are:
 
 | Asset          | Recommended Width |
 | :------------- | ----------------: |
-| README Logo    | 256 px            |
+| README Logo    | 320 px            |
 | Documentation  | 220–256 px        |
 | Website Header | 180–256 px        |
 | Presentation   | 512 px            |
@@ -208,8 +151,6 @@ When referencing branding assets:
 - Always reference the shared repository where practical.
 - Avoid duplicating assets across repositories.
 - Use `readme-logo.png` for repository headers.
-- Use `logo-transparent.png` for documentation and websites.
-- Use `logo-white.png` on dark backgrounds.
 - Prefer the highest practical resolution.
 - Preserve aspect ratios when resizing.
 
