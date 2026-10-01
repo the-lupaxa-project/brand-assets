@@ -14,12 +14,13 @@ resources.
 
 Each organisation currently provides the standard asset set:
 
-| Asset             | Purpose                                                         |
-| :---------------- | :-------------------------------------------------------------- |
-| `readme-logo.png` | Standard logo displayed at the top of repository README files.  |
-| `favicon.png`     | Standard favicon used for websites.                             |
-| `logo-raw.png`    | Raw transparent logo used as the starting point for all assets. |
-| `logos/*`         | Set of standard sized logos with a white background.            |
+| Asset                        | Purpose                                                        |
+| :--------------------------- | :------------------------------------------------------------- |
+| `readme-logo.png`            | Standard logo displayed at the top of repository README files. |
+| `favicon.png`                | Standard favicon used for websites.                            |
+| `github-profile-picture.png` | Standard favicon used for websites.                            |
+| `reference/*.png`            | Raw logos used as the starting point for all assets.           |
+| `logos/*.png`                | Set of standard sized logos with a white background.           |
 
 ## Open Source Catalogue
 
