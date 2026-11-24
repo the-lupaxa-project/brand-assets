@@ -52,6 +52,8 @@ brand-assets
     │   └── 512
     └── organisations
         ├── actions-toolbox
+        ├── after-hours
+        ├── ai-toolbox
         ├── api-extractor-toolbox
         ├── aws-toolbox
         ├── cicd-toolbox
@@ -72,6 +74,7 @@ brand-assets
         ├── the-lupaxa-lab
         ├── the-lupaxa-project
         ├── the-lupaxa-project-private
+        ├── web-toolbox
         └── workstation-toolbox
 ```
 
